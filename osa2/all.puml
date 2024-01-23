@@ -1,7 +1,7 @@
 @startuml
 
 
-!include <osa/awareness/awareness.puml>.
+!include <osa/awareness/awareness.puml>
 !include <osa/contract/contract.puml>
 !include <osa/database/database.puml>
 !include <osa/desktop/desktop.puml>
